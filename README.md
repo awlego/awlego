@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @awlego
-- 👀 I’m interested in machine learning, especially reinforcement learning and AI interpretability and safety
+- I go @awlego around the these parts
+- I’m interested in machine learning, especially reinforcement learning and AI interpretability and safety
