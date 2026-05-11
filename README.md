@@ -1,2 +1,2 @@
-- I go @awlego around the these parts
+- I go by @awlego around the these parts
 - I’m interested in machine learning, especially reinforcement learning and AI interpretability and safety
